@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:120
-#EXTVLCOPT:network-caching=10000000
-#EXTVLCOPT:http-reconnect=true
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5200000,RESOLUTION=1920x1080
-http://15.235.144.67:35461/streaming/clients_live.php?extension=m3u8&username=654321&password=123456&stream=10838
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
+https://phdown.serv00.net/Smartv.php?id=Ceria
