@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://extraott.com/streaming/clients_live.php?extension=m3u8&username=6945574629&password=7169628753&stream=13104
+http://extraott.com/live/6945574629/7169628753/13104.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000001
-http://extraott.com/streaming/clients_live.php?extension=m3u8&username=6945574629&password=7169628753&stream=13104
+http://extraott.com/live/6945574629/7169628753/13104.m3u8
